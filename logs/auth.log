@@ -1,0 +1,231 @@
+Sep 22 00:37:00 prod-app01 sshd[2442]: Accepted publickey for apascual from 10.0.12.24 port 45576 ssh2
+Sep 22 01:06:00 prod-app01 sshd[7043]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 01:13:00 prod-app01 sshd[5254]: Accepted publickey for jsantos from 10.0.12.54 port 41720 ssh2
+Sep 22 01:23:00 prod-app01 sshd[2815]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 01:24:00 prod-app01 sshd[6395]: Accepted publickey for rvillanueva from 10.0.12.14 port 48641 ssh2
+Sep 22 01:40:04 prod-app01 sshd[3321]: Failed password for invalid user root from 185.220.101.47 port 46055 ssh2
+Sep 22 01:40:13 prod-app01 sshd[9380]: Failed password for invalid user deploy from 185.220.101.47 port 45595 ssh2
+Sep 22 01:40:21 prod-app01 sshd[8871]: Failed password for invalid user postgres from 185.220.101.47 port 55602 ssh2
+Sep 22 01:40:26 prod-app01 sshd[9076]: Failed password for invalid user git from 185.220.101.47 port 43277 ssh2
+Sep 22 01:40:31 prod-app01 sshd[7321]: Failed password for invalid user backup from 185.220.101.47 port 52818 ssh2
+Sep 22 01:40:39 prod-app01 sshd[7830]: Failed password for invalid user oracle from 185.220.101.47 port 55203 ssh2
+Sep 22 01:40:48 prod-app01 sshd[1458]: Failed password for invalid user user from 185.220.101.47 port 44855 ssh2
+Sep 22 01:40:53 prod-app01 sshd[7380]: Failed password for invalid user support from 185.220.101.47 port 43936 ssh2
+Sep 22 01:40:56 prod-app01 sshd[8282]: Failed password for invalid user git from 185.220.101.47 port 41116 ssh2
+Sep 22 01:40:59 prod-app01 sshd[8666]: Failed password for invalid user ftpuser from 185.220.101.47 port 44564 ssh2
+Sep 22 01:41:07 prod-app01 sshd[1149]: Failed password for invalid user support from 185.220.101.47 port 49073 ssh2
+Sep 22 01:41:11 prod-app01 sshd[9244]: Failed password for invalid user ftpuser from 185.220.101.47 port 56404 ssh2
+Sep 22 01:41:15 prod-app01 sshd[7399]: Failed password for invalid user ftpuser from 185.220.101.47 port 57205 ssh2
+Sep 22 01:41:22 prod-app01 sshd[3480]: Failed password for invalid user test from 185.220.101.47 port 45717 ssh2
+Sep 22 01:41:27 prod-app01 sshd[3294]: Failed password for invalid user web from 185.220.101.47 port 55056 ssh2
+Sep 22 01:41:32 prod-app01 sshd[2117]: Failed password for invalid user git from 185.220.101.47 port 52908 ssh2
+Sep 22 01:41:41 prod-app01 sshd[8729]: Failed password for invalid user info from 185.220.101.47 port 52337 ssh2
+Sep 22 01:41:48 prod-app01 sshd[9306]: Failed password for invalid user administrator from 185.220.101.47 port 58875 ssh2
+Sep 22 01:41:57 prod-app01 sshd[3120]: Failed password for invalid user admin from 185.220.101.47 port 48494 ssh2
+Sep 22 01:42:00 prod-app01 sshd[8548]: Accepted publickey for kaguilar from 10.0.12.18 port 59118 ssh2
+Sep 22 01:42:05 prod-app01 sshd[6703]: Failed password for invalid user web from 185.220.101.47 port 59295 ssh2
+Sep 22 01:42:12 prod-app01 sshd[1736]: Failed password for invalid user guest from 185.220.101.47 port 42214 ssh2
+Sep 22 01:42:15 prod-app01 sshd[2581]: Failed password for invalid user administrator from 185.220.101.47 port 47592 ssh2
+Sep 22 01:42:23 prod-app01 sshd[8805]: Failed password for invalid user oracle from 185.220.101.47 port 56365 ssh2
+Sep 22 01:42:28 prod-app01 sshd[2727]: Failed password for invalid user deploy from 185.220.101.47 port 47753 ssh2
+Sep 22 01:42:32 prod-app01 sshd[2054]: Failed password for invalid user guest from 185.220.101.47 port 53764 ssh2
+Sep 22 01:42:35 prod-app01 sshd[1613]: Failed password for invalid user backup from 185.220.101.47 port 43751 ssh2
+Sep 22 01:42:44 prod-app01 sshd[7132]: Failed password for invalid user test from 185.220.101.47 port 54468 ssh2
+Sep 22 01:42:51 prod-app01 sshd[6261]: Failed password for invalid user root from 185.220.101.47 port 45703 ssh2
+Sep 22 01:42:54 prod-app01 sshd[3182]: Failed password for invalid user support from 185.220.101.47 port 52374 ssh2
+Sep 22 01:43:02 prod-app01 sshd[5136]: Failed password for invalid user postgres from 185.220.101.47 port 46413 ssh2
+Sep 22 01:43:08 prod-app01 sshd[4694]: Failed password for invalid user support from 185.220.101.47 port 49374 ssh2
+Sep 22 01:43:12 prod-app01 sshd[9659]: Failed password for invalid user administrator from 185.220.101.47 port 54223 ssh2
+Sep 22 01:43:21 prod-app01 sshd[1397]: Failed password for invalid user postgres from 185.220.101.47 port 42818 ssh2
+Sep 22 01:43:29 prod-app01 sshd[1544]: Failed password for invalid user oracle from 185.220.101.47 port 46669 ssh2
+Sep 22 01:43:38 prod-app01 sshd[6891]: Failed password for invalid user ubuntu from 185.220.101.47 port 40171 ssh2
+Sep 22 01:43:47 prod-app01 sshd[9955]: Failed password for invalid user user from 185.220.101.47 port 58621 ssh2
+Sep 22 01:43:56 prod-app01 sshd[4036]: Failed password for invalid user test from 185.220.101.47 port 51164 ssh2
+Sep 22 01:44:04 prod-app01 sshd[4115]: Failed password for invalid user admin from 185.220.101.47 port 56258 ssh2
+Sep 22 01:44:13 prod-app01 sshd[8761]: Failed password for invalid user postgres from 185.220.101.47 port 58689 ssh2
+Sep 22 01:44:20 prod-app01 sshd[3258]: Failed password for invalid user ftpuser from 185.220.101.47 port 51681 ssh2
+Sep 22 01:44:29 prod-app01 sshd[8004]: Failed password for invalid user test from 185.220.101.47 port 54381 ssh2
+Sep 22 01:44:37 prod-app01 sshd[2280]: Failed password for invalid user guest from 185.220.101.47 port 42322 ssh2
+Sep 22 01:44:41 prod-app01 sshd[2653]: Failed password for invalid user admin from 185.220.101.47 port 49772 ssh2
+Sep 22 01:44:44 prod-app01 sshd[1843]: Failed password for invalid user info from 185.220.101.47 port 47555 ssh2
+Sep 22 01:44:51 prod-app01 sshd[4670]: Failed password for invalid user web from 185.220.101.47 port 40738 ssh2
+Sep 22 01:45:00 prod-app01 sshd[7396]: Failed password for invalid user git from 185.220.101.47 port 48237 ssh2
+Sep 22 01:45:08 prod-app01 sshd[3586]: Failed password for invalid user ftpuser from 185.220.101.47 port 42226 ssh2
+Sep 22 01:45:13 prod-app01 sshd[4955]: Failed password for invalid user test from 185.220.101.47 port 57511 ssh2
+Sep 22 01:45:22 prod-app01 sshd[6115]: Failed password for invalid user admin from 185.220.101.47 port 56385 ssh2
+Sep 22 01:45:28 prod-app01 sshd[2816]: Failed password for invalid user admin from 185.220.101.47 port 57889 ssh2
+Sep 22 01:45:35 prod-app01 sshd[1491]: Failed password for invalid user info from 185.220.101.47 port 48619 ssh2
+Sep 22 01:45:38 prod-app01 sshd[5274]: Failed password for invalid user web from 185.220.101.47 port 53808 ssh2
+Sep 22 01:45:42 prod-app01 sshd[3282]: Failed password for invalid user web from 185.220.101.47 port 41946 ssh2
+Sep 22 01:45:46 prod-app01 sshd[4860]: Failed password for invalid user web from 185.220.101.47 port 42042 ssh2
+Sep 22 01:45:52 prod-app01 sshd[1579]: Failed password for invalid user test from 185.220.101.47 port 58476 ssh2
+Sep 22 01:45:57 prod-app01 sshd[2320]: Failed password for invalid user test from 185.220.101.47 port 53639 ssh2
+Sep 22 01:46:04 prod-app01 sshd[5432]: Failed password for invalid user info from 185.220.101.47 port 44242 ssh2
+Sep 22 01:46:12 prod-app01 sshd[1583]: Failed password for invalid user admin from 185.220.101.47 port 43409 ssh2
+Sep 22 01:46:18 prod-app01 sshd[6738]: Failed password for invalid user admin from 185.220.101.47 port 47380 ssh2
+Sep 22 01:46:24 prod-app01 sshd[4731]: Failed password for invalid user info from 185.220.101.47 port 49942 ssh2
+Sep 22 01:46:27 prod-app01 sshd[4214]: Failed password for invalid user admin from 185.220.101.47 port 40863 ssh2
+Sep 22 01:46:34 prod-app01 sshd[8899]: Failed password for invalid user guest from 185.220.101.47 port 40592 ssh2
+Sep 22 01:46:37 prod-app01 sshd[3051]: Failed password for invalid user guest from 185.220.101.47 port 52361 ssh2
+Sep 22 01:46:43 prod-app01 sshd[3257]: Failed password for invalid user user from 185.220.101.47 port 58007 ssh2
+Sep 22 01:46:46 prod-app01 sshd[7024]: Failed password for invalid user support from 185.220.101.47 port 43866 ssh2
+Sep 22 01:46:51 prod-app01 sshd[8152]: Failed password for invalid user postgres from 185.220.101.47 port 51243 ssh2
+Sep 22 01:46:54 prod-app01 sshd[2507]: Failed password for invalid user deploy from 185.220.101.47 port 47603 ssh2
+Sep 22 01:47:01 prod-app01 sshd[7767]: Failed password for invalid user root from 185.220.101.47 port 47442 ssh2
+Sep 22 01:47:09 prod-app01 sshd[5094]: Failed password for invalid user admin from 185.220.101.47 port 40488 ssh2
+Sep 22 01:47:18 prod-app01 sshd[1928]: Failed password for invalid user admin from 185.220.101.47 port 42510 ssh2
+Sep 22 01:47:22 prod-app01 sshd[5630]: Failed password for invalid user support from 185.220.101.47 port 45917 ssh2
+Sep 22 01:47:25 prod-app01 sshd[5001]: Failed password for invalid user web from 185.220.101.47 port 51457 ssh2
+Sep 22 01:47:30 prod-app01 sshd[7517]: Failed password for invalid user ubuntu from 185.220.101.47 port 59861 ssh2
+Sep 22 01:47:36 prod-app01 sshd[2251]: Failed password for invalid user oracle from 185.220.101.47 port 42516 ssh2
+Sep 22 01:47:41 prod-app01 sshd[6848]: Failed password for invalid user postgres from 185.220.101.47 port 56217 ssh2
+Sep 22 01:47:50 prod-app01 sshd[5959]: Failed password for invalid user deploy from 185.220.101.47 port 54533 ssh2
+Sep 22 01:47:55 prod-app01 sshd[9631]: Failed password for invalid user git from 185.220.101.47 port 48002 ssh2
+Sep 22 01:48:00 prod-app01 sshd[9248]: Failed password for invalid user web from 185.220.101.47 port 57741 ssh2
+Sep 22 01:48:03 prod-app01 sshd[7731]: Failed password for invalid user admin from 185.220.101.47 port 51358 ssh2
+Sep 22 01:48:11 prod-app01 sshd[2285]: Failed password for invalid user info from 185.220.101.47 port 49167 ssh2
+Sep 22 01:48:15 prod-app01 sshd[4777]: Failed password for invalid user ubuntu from 185.220.101.47 port 57071 ssh2
+Sep 22 01:48:20 prod-app01 sshd[7101]: Failed password for invalid user postgres from 185.220.101.47 port 44022 ssh2
+Sep 22 01:48:28 prod-app01 sshd[4851]: Failed password for invalid user ubuntu from 185.220.101.47 port 41175 ssh2
+Sep 22 01:48:36 prod-app01 sshd[2871]: Failed password for invalid user support from 185.220.101.47 port 54868 ssh2
+Sep 22 01:48:39 prod-app01 sshd[5428]: Failed password for invalid user info from 185.220.101.47 port 41106 ssh2
+Sep 22 01:48:44 prod-app01 sshd[7294]: Failed password for root from 185.220.101.47 port 59275 ssh2
+Sep 22 01:48:49 prod-app01 sshd[1978]: Failed password for root from 185.220.101.47 port 42768 ssh2
+Sep 22 01:48:54 prod-app01 sshd[7290]: Failed password for root from 185.220.101.47 port 59980 ssh2
+Sep 22 01:49:00 prod-app01 sshd[7268]: Failed password for root from 185.220.101.47 port 40617 ssh2
+Sep 22 01:49:06 prod-app01 sshd[1727]: Failed password for root from 185.220.101.47 port 54549 ssh2
+Sep 22 01:49:10 prod-app01 sshd[7214]: Failed password for root from 185.220.101.47 port 46741 ssh2
+Sep 22 01:49:14 prod-app01 sshd[9724]: Failed password for root from 185.220.101.47 port 54125 ssh2
+Sep 22 01:49:17 prod-app01 sshd[1512]: Failed password for root from 185.220.101.47 port 49999 ssh2
+Sep 22 01:49:24 prod-app01 sshd[1425]: Failed password for root from 185.220.101.47 port 51396 ssh2
+Sep 22 01:49:31 prod-app01 sshd[5301]: Failed password for root from 185.220.101.47 port 51017 ssh2
+Sep 22 01:49:43 prod-app01 sshd[4547]: Accepted password for admin from 185.220.101.47 port 51422 ssh2
+Sep 22 01:49:45 prod-app01 sshd[1448]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Sep 22 01:50:25 prod-app01 sshd[6586]: sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Sep 22 01:50:50 prod-app01 sshd[8111]: sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/sbin/useradd -m -s /bin/bash svc-backup
+Sep 22 01:51:05 prod-app01 sshd[8004]: sudo: admin : TTY=pts/3 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/passwd svc-backup
+Sep 22 02:02:00 prod-app01 sshd[3069]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 02:02:00 prod-app01 sshd[7771]: Accepted publickey for kaguilar from 10.0.12.58 port 59140 ssh2
+Sep 22 02:21:05 prod-app01 sshd[1935]: pam_unix(sshd:session): session closed for user admin
+Sep 22 02:33:00 prod-app01 sshd[4940]: Accepted publickey for mreyes from 10.0.12.43 port 57288 ssh2
+Sep 22 02:47:00 prod-app01 sshd[7218]: pam_unix(sshd:session): session closed for user rvillanueva
+Sep 22 03:04:00 prod-app01 sshd[8908]: Accepted publickey for nbautista from 10.0.12.27 port 50548 ssh2
+Sep 22 03:22:00 prod-app01 sshd[6783]: Accepted publickey for rvillanueva from 10.0.12.55 port 42713 ssh2
+Sep 22 03:28:00 prod-app01 sshd[8320]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 03:37:00 prod-app01 sshd[2504]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 03:51:00 prod-app01 sshd[8830]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 03:53:00 prod-app01 sshd[2231]: Accepted publickey for ldelacruz from 10.0.12.54 port 42556 ssh2
+Sep 22 04:09:00 prod-app01 sshd[8670]: Accepted publickey for jsantos from 10.0.12.52 port 47082 ssh2
+Sep 22 04:34:00 prod-app01 sshd[9644]: Accepted publickey for mreyes from 10.0.12.31 port 46837 ssh2
+Sep 22 04:38:00 prod-app01 sshd[4971]: pam_unix(sshd:session): session closed for user rvillanueva
+Sep 22 05:01:00 prod-app01 sshd[1987]: pam_unix(sshd:session): session closed for user ldelacruz
+Sep 22 05:03:00 prod-app01 sshd[4078]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 05:08:00 prod-app01 sshd[3523]: Accepted publickey for rvillanueva from 10.0.12.55 port 54877 ssh2
+Sep 22 05:44:00 prod-app01 sshd[6134]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 05:47:00 prod-app01 sshd[7317]: Accepted publickey for kaguilar from 10.0.12.24 port 51915 ssh2
+Sep 22 06:03:00 prod-app01 sshd[5552]: Accepted publickey for apascual from 10.0.12.22 port 42249 ssh2
+Sep 22 06:17:00 prod-app01 sshd[2731]: pam_unix(sshd:session): session closed for user rvillanueva
+Sep 22 06:34:00 prod-app01 sshd[3413]: Accepted publickey for rvillanueva from 10.0.12.46 port 43344 ssh2
+Sep 22 06:49:00 prod-app01 sshd[9412]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 07:00:00 prod-app01 sshd[9516]: Failed password for kaguilar from 10.0.12.48 port 43966 ssh2
+Sep 22 07:02:00 prod-app01 sshd[3690]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 07:07:00 prod-app01 sshd[8550]: Accepted publickey for mreyes from 10.0.12.25 port 40543 ssh2
+Sep 22 07:15:00 prod-app01 sshd[1403]: Failed password for ldelacruz from 10.0.12.16 port 55523 ssh2
+Sep 22 07:17:00 prod-app01 sshd[8416]: Accepted publickey for nbautista from 10.0.12.52 port 57396 ssh2
+Sep 22 07:30:00 prod-app01 sshd[4474]: Accepted publickey for mreyes from 10.0.12.32 port 54138 ssh2
+Sep 22 07:35:00 prod-app01 sshd[5370]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 07:38:00 prod-app01 sshd[2755]: pam_unix(sshd:session): session closed for user rvillanueva
+Sep 22 07:54:00 prod-app01 sshd[7503]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 07:56:00 prod-app01 sshd[1870]: Accepted publickey for apascual from 10.0.12.42 port 50935 ssh2
+Sep 22 08:07:00 prod-app01 sshd[5351]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 08:17:00 prod-app01 sshd[7923]: Accepted publickey for mreyes from 10.0.12.13 port 52534 ssh2
+Sep 22 08:33:00 prod-app01 sshd[5520]: Accepted publickey for apascual from 10.0.12.21 port 59465 ssh2
+Sep 22 08:46:00 prod-app01 sshd[5816]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 08:57:00 prod-app01 sshd[5466]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 08:59:00 prod-app01 sshd[5078]: Accepted publickey for apascual from 10.0.12.16 port 41634 ssh2
+Sep 22 09:12:00 prod-app01 sshd[5361]: Accepted publickey for jsantos from 10.0.12.12 port 58849 ssh2
+Sep 22 09:18:00 prod-app01 sshd[4597]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 09:39:00 prod-app01 sshd[7628]: Accepted publickey for mreyes from 10.0.12.27 port 47420 ssh2
+Sep 22 09:45:00 prod-app01 sshd[9087]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 09:47:00 prod-app01 sshd[2078]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 09:52:00 prod-app01 sshd[9112]: Accepted publickey for ldelacruz from 10.0.12.56 port 48790 ssh2
+Sep 22 10:23:00 prod-app01 sshd[3802]: pam_unix(sshd:session): session closed for user ldelacruz
+Sep 22 10:25:00 prod-app01 sshd[9957]: Failed password for nbautista from 10.0.12.21 port 47698 ssh2
+Sep 22 10:27:00 prod-app01 sshd[5718]: Accepted publickey for ldelacruz from 10.0.12.32 port 49436 ssh2
+Sep 22 10:32:00 prod-app01 sshd[2544]: pam_unix(sshd:session): session closed for user ldelacruz
+Sep 22 10:34:00 prod-app01 sshd[7437]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 10:42:00 prod-app01 sshd[4909]: Accepted publickey for nbautista from 10.0.12.57 port 50004 ssh2
+Sep 22 10:52:00 prod-app01 sshd[8083]: Failed password for nbautista from 10.0.12.52 port 44036 ssh2
+Sep 22 11:08:00 prod-app01 sshd[6162]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 11:13:00 prod-app01 sshd[6442]: Accepted publickey for mreyes from 10.0.12.20 port 46138 ssh2
+Sep 22 11:53:00 prod-app01 sshd[8011]: Accepted publickey for jsantos from 10.0.12.52 port 55551 ssh2
+Sep 22 12:08:00 prod-app01 sshd[1159]: Accepted publickey for rvillanueva from 10.0.12.14 port 45594 ssh2
+Sep 22 12:16:00 prod-app01 sshd[3323]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 12:33:00 prod-app01 sshd[8742]: Accepted publickey for jsantos from 10.0.12.41 port 48110 ssh2
+Sep 22 12:40:00 prod-app01 sshd[1341]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 12:52:00 prod-app01 sshd[1740]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 13:09:00 prod-app01 sshd[4740]: Accepted publickey for jsantos from 10.0.12.46 port 49524 ssh2
+Sep 22 13:24:00 prod-app01 sshd[2638]: Accepted publickey for kaguilar from 10.0.12.59 port 43077 ssh2
+Sep 22 13:29:00 prod-app01 sshd[6769]: pam_unix(sshd:session): session closed for user rvillanueva
+Sep 22 13:48:00 prod-app01 sshd[9940]: Accepted publickey for nbautista from 10.0.12.57 port 51494 ssh2
+Sep 22 14:06:00 prod-app01 sshd[6777]: Accepted publickey for cmendoza from 10.0.12.39 port 40444 ssh2
+Sep 22 14:07:00 prod-app01 sshd[6499]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 14:21:00 prod-app01 sshd[9243]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 14:25:00 prod-app01 sshd[8970]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 14:44:00 prod-app01 sshd[9508]: Accepted publickey for nbautista from 10.0.12.17 port 48845 ssh2
+Sep 22 14:49:00 prod-app01 sshd[6467]: pam_unix(sshd:session): session closed for user cmendoza
+Sep 22 14:58:00 prod-app01 sshd[6852]: Accepted publickey for apascual from 10.0.12.24 port 44641 ssh2
+Sep 22 15:15:00 prod-app01 sshd[2462]: Accepted publickey for apascual from 10.0.12.33 port 46760 ssh2
+Sep 22 15:44:00 prod-app01 sshd[7189]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 15:45:00 prod-app01 sshd[8360]: Accepted publickey for mreyes from 10.0.12.27 port 57855 ssh2
+Sep 22 16:03:00 prod-app01 sshd[7836]: Accepted publickey for cmendoza from 10.0.12.31 port 52813 ssh2
+Sep 22 16:06:00 prod-app01 sshd[1506]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 16:10:00 prod-app01 sshd[1339]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 16:19:00 prod-app01 sshd[6624]: Accepted publickey for jsantos from 10.0.12.47 port 57041 ssh2
+Sep 22 16:42:00 prod-app01 sshd[5725]: Accepted publickey for nbautista from 10.0.12.46 port 51370 ssh2
+Sep 22 16:43:00 prod-app01 sshd[6067]: pam_unix(sshd:session): session closed for user cmendoza
+Sep 22 16:57:00 prod-app01 sshd[3866]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 17:01:00 prod-app01 sshd[1136]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 17:07:00 prod-app01 sshd[9571]: Accepted publickey for kaguilar from 10.0.12.39 port 44922 ssh2
+Sep 22 17:26:00 prod-app01 sshd[5828]: Accepted publickey for nbautista from 10.0.12.28 port 42117 ssh2
+Sep 22 17:32:00 prod-app01 sshd[8436]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 17:37:00 prod-app01 sshd[3022]: Accepted publickey for ldelacruz from 10.0.12.28 port 59433 ssh2
+Sep 22 17:42:00 prod-app01 sshd[3014]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 17:48:00 prod-app01 sshd[9001]: pam_unix(sshd:session): session closed for user ldelacruz
+Sep 22 17:49:00 prod-app01 sshd[3664]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 17:56:00 prod-app01 sshd[1010]: Accepted publickey for jsantos from 10.0.12.37 port 51542 ssh2
+Sep 22 17:59:00 prod-app01 sshd[2879]: Failed password for jsantos from 10.0.12.41 port 46576 ssh2
+Sep 22 18:07:00 prod-app01 sshd[5119]: pam_unix(sshd:session): session closed for user jsantos
+Sep 22 18:10:00 prod-app01 sshd[3540]: Accepted publickey for cmendoza from 10.0.12.28 port 56449 ssh2
+Sep 22 18:24:00 prod-app01 sshd[2322]: Accepted publickey for ldelacruz from 10.0.12.37 port 59176 ssh2
+Sep 22 18:26:00 prod-app01 sshd[5434]: pam_unix(sshd:session): session closed for user cmendoza
+Sep 22 18:35:00 prod-app01 sshd[7328]: Accepted publickey for nbautista from 10.0.12.32 port 48150 ssh2
+Sep 22 19:06:00 prod-app01 sshd[4585]: pam_unix(sshd:session): session closed for user ldelacruz
+Sep 22 19:15:00 prod-app01 sshd[6091]: Accepted publickey for mreyes from 10.0.12.26 port 49896 ssh2
+Sep 22 19:32:00 prod-app01 sshd[2995]: Failed password for nbautista from 10.0.12.35 port 41823 ssh2
+Sep 22 19:34:00 prod-app01 sshd[7539]: pam_unix(sshd:session): session closed for user nbautista
+Sep 22 19:42:00 prod-app01 sshd[8140]: pam_unix(sshd:session): session closed for user mreyes
+Sep 22 19:46:00 prod-app01 sshd[4268]: Accepted publickey for cmendoza from 10.0.12.47 port 44560 ssh2
+Sep 22 20:09:00 prod-app01 sshd[2402]: Accepted publickey for ldelacruz from 10.0.12.29 port 49994 ssh2
+Sep 22 20:23:00 prod-app01 sshd[3223]: pam_unix(sshd:session): session closed for user cmendoza
+Sep 22 20:36:00 prod-app01 sshd[2573]: Accepted publickey for kaguilar from 10.0.12.34 port 54316 ssh2
+Sep 22 20:52:00 prod-app01 sshd[8555]: pam_unix(sshd:session): session closed for user ldelacruz
+Sep 22 20:58:00 prod-app01 sshd[9627]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 21:00:00 prod-app01 sshd[8673]: Accepted publickey for cmendoza from 10.0.12.42 port 51716 ssh2
+Sep 22 21:24:00 prod-app01 sshd[1453]: Accepted publickey for apascual from 10.0.12.36 port 55115 ssh2
+Sep 22 21:50:00 prod-app01 sshd[8006]: pam_unix(sshd:session): session closed for user cmendoza
+Sep 22 22:04:00 prod-app01 sshd[5954]: Accepted publickey for apascual from 10.0.12.15 port 44606 ssh2
+Sep 22 22:25:00 prod-app01 sshd[5806]: Accepted publickey for kaguilar from 10.0.12.49 port 57801 ssh2
+Sep 22 22:36:00 prod-app01 sshd[7433]: pam_unix(sshd:session): session closed for user kaguilar
+Sep 22 22:39:00 prod-app01 sshd[8582]: Accepted publickey for apascual from 10.0.12.52 port 40195 ssh2
+Sep 22 22:40:00 prod-app01 sshd[1432]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 22:40:00 prod-app01 sshd[9391]: pam_unix(sshd:session): session closed for user apascual
+Sep 22 23:15:00 prod-app01 sshd[5426]: Accepted publickey for jsantos from 10.0.12.15 port 41792 ssh2
+Sep 22 23:35:00 prod-app01 sshd[8888]: Accepted publickey for mreyes from 10.0.12.28 port 58528 ssh2
+Sep 22 23:48:00 prod-app01 sshd[9458]: Accepted publickey for jsantos from 10.0.12.54 port 46719 ssh2
+Sep 22 23:50:00 prod-app01 sshd[8540]: pam_unix(sshd:session): session closed for user apascual
+Sep 23 00:02:00 prod-app01 sshd[5929]: Accepted publickey for ldelacruz from 10.0.12.53 port 45071 ssh2
+Sep 23 00:11:00 prod-app01 sshd[9115]: pam_unix(sshd:session): session closed for user jsantos
+Sep 23 00:22:00 prod-app01 sshd[1997]: pam_unix(sshd:session): session closed for user mreyes
+Sep 23 00:43:00 prod-app01 sshd[2753]: pam_unix(sshd:session): session closed for user jsantos
+Sep 23 01:27:00 prod-app01 sshd[6093]: pam_unix(sshd:session): session closed for user ldelacruz
